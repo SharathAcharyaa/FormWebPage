@@ -17,8 +17,7 @@
 	height: 100vh;
 	width: 100%;
 	float: left;
-	background: linear-gradient(to bottom,#4dcece, #845EC2, #1a2042);
-}
+	background: linear-gradient(135deg, #C26754, #C13584);
 #LoginAndRegistrationForm{
 	width: 350px;
 	background: #def3fa; 
@@ -60,7 +59,7 @@
 }
 #formSwitchBtn .active{
 	color: #fff;
-	background: #7fb6b7;
+	background: #84319A;
 }
 .input-text{
 	width: 100%;
@@ -116,7 +115,7 @@
 	font-family: 'Nunito Sans', sans-serif;
 	font-weight: bolder;
 	transition: 0.4s;
-	background-color: #5077e1;
+	background-color: #6B56BB;
 	color: #fff;
 }
 .Submit-Btn:hover{
@@ -161,4 +160,4 @@
 	padding: 0px; 
 	margin-top: 2px; 
 }
-
+}
